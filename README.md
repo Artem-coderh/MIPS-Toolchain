@@ -1,4 +1,7 @@
 # MIPSEL-Toolchain
+> [!NOTE]
+> To get the archive, run "unsplit.sh"
+
 ## In toolchain there is:
 1. Standard C library Musl 1.1.24
 2. GCC 4.9.2
